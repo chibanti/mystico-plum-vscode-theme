@@ -2,7 +2,7 @@
   "name": "mystico-plum",
   "displayName": "Mystico - Plum",
   "description": "Mystico - Plum color theme for Visual Studio Code",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "publisher": "Chibantichic",
   "engines": {
     "vscode": "^1.55.0"
